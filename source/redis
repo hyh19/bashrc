@@ -1,2 +1,2 @@
-export REDIS_HOME=~/redis/current
+export REDIS_HOME=$HOME/redis/current
 export PATH=$PATH:$REDIS_HOME/src

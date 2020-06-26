@@ -1,1 +1,1 @@
-export PATH=$PATH:~/chromedriver_home/current
+export PATH=$PATH:$HOME/chromedriver_home/current

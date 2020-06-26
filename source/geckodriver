@@ -1,1 +1,1 @@
-export PATH=$PATH:~/geckodriver_home/current
+export PATH=$PATH:$HOME/geckodriver_home/current

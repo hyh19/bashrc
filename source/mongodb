@@ -1,1 +1,1 @@
-export PATH="~/mongodb/current/bin":$PATH
+export PATH=$PATH:$HOME/mongodb/current/bin
