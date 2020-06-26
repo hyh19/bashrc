@@ -1,0 +1,1 @@
+export PATH="/usr/libexec/PlistBuddy/bin:$PATH"

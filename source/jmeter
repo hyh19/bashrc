@@ -1,0 +1,2 @@
+export JMETER_HOME=~/jmeter/current
+export PATH=$PATH:$JMETER_HOME/bin

@@ -1,0 +1,2 @@
+export DART_HOME=~/dart/current
+export PATH=$PATH:$DART_HOME/bin

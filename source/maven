@@ -1,0 +1,2 @@
+export MAVEN_HOME=~/maven/current
+export PATH=$PATH:$MAVEN_HOME/bin

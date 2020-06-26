@@ -1,0 +1,1 @@
+source '~/lib/azure-cli/az.completion'
